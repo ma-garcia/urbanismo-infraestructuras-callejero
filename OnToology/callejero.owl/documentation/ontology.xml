@@ -21,11 +21,16 @@
         <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-28</dc:date>
         <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero</dc:identifier>
         <dc:rights rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creative Commons Attribution 4.0 International (CC BY 4.0)</dc:rights>
-        <dc:title xml:lang="es">Vocabulario para la representación de datos de un callejero</dc:title>
+        <terms:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Este vocabulario se utiliza para la descripción del callejero de una ciudad. Reutiliza términos de varios vocabularios que actualmente se utilizan para propósitos similares, incluyendo:
+- schema.org
+- GeoSPARQL
+- GeoNames
+- Unidades territoriales en España</terms:description>
         <terms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero.html"/>
         <terms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero.owl"/>
         <terms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-28</terms:issued>
         <terms:replaces rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero_20140321"/>
+        <terms:title xml:lang="es">Vocabulario para la representación de datos de un callejero</terms:title>
         <vann:preferredNamespaceUri rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero#"/>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">Este vocabulario se utiliza para la descripción del callejero de una ciudad. Reutiliza términos de varios vocabularios que actualmente se utilizan para propósitos similares, incluyendo:
 - schema.org
