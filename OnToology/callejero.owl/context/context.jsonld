@@ -71,7 +71,7 @@
       "@type" : "@id"
     },
     "title" : {
-      "@id" : "http://purl.org/dc/elements/1.1/title"
+      "@id" : "http://purl.org/dc/terms/title"
     },
     "contieneVia" : {
       "@id" : "http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/callejero#contieneVia",
@@ -115,6 +115,9 @@
     },
     "hasFormat" : {
       "@id" : "http://purl.org/dc/terms/hasFormat"
+    },
+    "description" : {
+      "@id" : "http://purl.org/dc/terms/description"
     },
     "preferredNamespaceUri" : {
       "@id" : "http://purl.org/vocab/vann/preferredNamespaceUri"
